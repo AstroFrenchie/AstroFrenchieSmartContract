@@ -1,8 +1,4 @@
 /**
- *Submitted for verification at BscScan.com on 2021-05-14
-*/
-
-/**
  * AstroFrenchie - The first Frenchie on the Moon 
 */
 
